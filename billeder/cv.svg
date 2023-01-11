@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261 322.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c34e8f;
+      }
+
+      .cls-2 {
+        font-family: MajorMonoDisplay-Regular, 'Major Mono Display';
+        font-size: 47px;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="CV" class="cls-3">
+      <text class="cls-2" transform="translate(0 312)"><tspan x="0" y="0">CV</tspan></text>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" x="0" width="261" height="261"/>
+  </g>
+</svg>

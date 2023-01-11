@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_16">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_16" data-name="Web 1920 – 16" clip-path="url(#clip-Web_1920_16)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <text id="Portfolio" transform="translate(135 201)" font-size="87" font-family="MajorMonoDisplay-Regular, Major Mono Display"><tspan x="0" y="0">Portfolio</tspan></text>
+    <text id="_1._semester_eksamen_-_mmd_efterår_2022" data-name="1. semester eksamen - mmd efterår 2022" transform="translate(140 210)" font-size="43" font-family="Monofett"><tspan x="0" y="42">1. semester eksamen - mmd </tspan><tspan x="0" y="91">efterår 2022</tspan></text>
+  </g>
+</svg>

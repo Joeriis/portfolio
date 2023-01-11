@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*Animationer*/
+.rotate {
+  animation-name: rotate;
+  animation-duration: 0.2s;
+  animation-timing-function: linear;
+  animation-iteration-count: initial;
+}
+@keyframes rotate {
+  100% {
+    transform: rotate(60deg);
+  }
+}
+.forside:hover,
+.cv:hover,
+.tema:hover,
+.pil_højre:hover,
+.pil_venstre:hover,
+#temaer_sprite:hover,
+#cv_sprite:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+/*Fonts*/
+h1 {
+  font-family: "Major Mono Display", monospace;
+  font-size: 3.8rem;
+}
+h2 {
+  font-family: "Monofett", cursive;
+  font-size: 1.8rem;
+}
+p {
+  font-family: "Space Mono", monospace;
+  font-size: 0.75rem;
+}
+a {
+  font-family: "Space Mono", monospace;
+  font-size: 0.85rem;
+  color: #5c81d3;
+}
+
+.cv_billede {
+  width: 85.5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cv_tekst {
+  text-align: center;
+}
+.cv_tekst2 {
+  margin-top: 5%;
+}
